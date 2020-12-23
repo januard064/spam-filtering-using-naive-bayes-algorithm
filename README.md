@@ -15,8 +15,6 @@ pesan tidak spam yang sudah tersedia sebelumya.
 
 
 
-![Gambar](https://prnt.sc/w8c8es)
-
 ### Penjelasan Cara Kerja
 ```Sh
 Tahapan dimulai dengan proses pengumumpulan data, pengumpulan data yang
