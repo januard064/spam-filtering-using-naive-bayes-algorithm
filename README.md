@@ -1,4 +1,4 @@
-#Spam Filtering
+# Spam Filtering
 spam filtering adalah layanan untuk menyaring pesan yang masuk dan mengklasifikasikannya menjadi pesan yang bersifat spam ataupun bukan. 
 Pesan yang telah teridentifikasi sebagai pesan yang bersifat  spam akan secara otomatis masuk ke dalam file spam dan tidak ditampilkan
 kepada pengguna.
